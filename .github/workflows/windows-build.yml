@@ -14,12 +14,12 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Build and package
         shell: pwsh
         run: .\build.ps1 -Version 0.1.0-alpha.1
       - name: Upload build artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: CodexUsageMonitor-win-x64
           path: |
