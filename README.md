@@ -2,6 +2,10 @@
 
 A Windows Codex CLI usage monitor that lives in the system tray and shows account limits, remaining percentages, and reset times at a glance. It supports eight interface languages and high-DPI displays.
 
+[**Download for Windows — CodexUsageMonitor 0.1.0-alpha.1**](https://github.com/flymm004/codex-usage-monitor/releases/tag/v0.1.0-alpha.1) · [All releases](https://github.com/flymm004/codex-usage-monitor/releases)
+
+**Quick start:** Download `CodexUsageMonitor-0.1.0-alpha.1-win-x64.zip` from **Assets**, open the ZIP and choose **Extract All**, then open the extracted folder and double-click `CodexUsageMonitor.exe`. No installer is needed. Codex CLI must already be installed and signed in.
+
 [简体中文](README.zh-CN.md)
 
 > **Status: Alpha.** This project depends on the local Codex CLI App Server response format, which may change between Codex versions.

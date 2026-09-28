@@ -4,6 +4,10 @@
 
 一款 Windows Codex CLI 使用量监控工具，在通知区域显示账户额度剩余比例和重置时间。支持 8 种界面语言及高 DPI 显示。
 
+[**下载 Windows 版 — CodexUsageMonitor 0.1.0-alpha.1**](https://github.com/flymm004/codex-usage-monitor/releases/tag/v0.1.0-alpha.1) · [查看全部版本](https://github.com/flymm004/codex-usage-monitor/releases)
+
+**快速开始：** 在页面的 **Assets** 中下载 `CodexUsageMonitor-0.1.0-alpha.1-win-x64.zip`，打开 ZIP 并点击 **全部解压**，然后进入解压后的文件夹，双击 `CodexUsageMonitor.exe` 即可运行，无需安装。使用前请先安装 Codex CLI 并登录。
+
 > **当前为 Alpha 版本。** 项目依赖本机 Codex CLI App Server 返回的数据结构，Codex 更新后可能需要适配。
 
 ## 功能
