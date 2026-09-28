@@ -14,6 +14,18 @@
 - 支持英语、简体中文、繁体中文、日语、韩语、西班牙语、德语和法语
 - 支持高 DPI 和 Per-Monitor V2 缩放
 
+## 截图
+
+托盘图标直接显示短周期剩余比例，点击后展开用量面板。截图使用示例数值，不包含真实账户额度。
+
+<p align="center">
+  <img src="docs/screenshots/tray-badge-sample.png" width="64" alt="Codex Usage Monitor 托盘图标示例，显示剩余 76%">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/usage-panel-zh-cn.png" width="652" alt="Codex Usage Monitor 中文用量面板示例">
+</p>
+
 ## 运行条件
 
 - Windows 10/11

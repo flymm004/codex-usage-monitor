@@ -14,6 +14,18 @@ A Windows Codex CLI usage monitor that lives in the system tray and shows accoun
 - Supports English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Spanish, German, and French. English is first in the language menu; System default is last.
 - Handles high-DPI displays and Per-Monitor V2 scaling.
 
+## Screenshots
+
+The tray badge shows the short-window remaining percentage at a glance. Click it to open the usage panel. These screenshots use illustrative sample values, not live account data.
+
+<p align="center">
+  <img src="docs/screenshots/tray-badge-sample.png" width="64" alt="Codex Usage Monitor tray badge showing 76 percent remaining">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/usage-panel-en.png" width="652" alt="Codex Usage Monitor English panel with sample usage values">
+</p>
+
 ## Requirements
 
 - Windows 10 or 11
